@@ -1,0 +1,2 @@
+# kalkulator
+pravljenje prvog kalkulatora
