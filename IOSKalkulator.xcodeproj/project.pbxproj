@@ -12,6 +12,7 @@
 		EA11167C1DCA51C800214732 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA11167A1DCA51C800214732 /* Main.storyboard */; };
 		EA11167E1DCA51C800214732 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA11167D1DCA51C800214732 /* Assets.xcassets */; };
 		EA1116811DCA51C800214732 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA11167F1DCA51C800214732 /* LaunchScreen.storyboard */; };
+		EA9667131DCA8FB50083BBBA /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = EA9667121DCA8FB40083BBBA /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EA11167D1DCA51C800214732 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA1116801DCA51C800214732 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA1116821DCA51C800214732 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA9667121DCA8FB40083BBBA /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				EA1116761DCA51C800214732 /* AppDelegate.swift */,
+				EA9667121DCA8FB40083BBBA /* btn.wav */,
 				EA1116781DCA51C800214732 /* ViewController.swift */,
 				EA11167A1DCA51C800214732 /* Main.storyboard */,
 				EA11167D1DCA51C800214732 /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 				EA1116811DCA51C800214732 /* LaunchScreen.storyboard in Resources */,
 				EA11167E1DCA51C800214732 /* Assets.xcassets in Resources */,
 				EA11167C1DCA51C800214732 /* Main.storyboard in Resources */,
+				EA9667131DCA8FB50083BBBA /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				EA1116871DCA51C800214732 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
